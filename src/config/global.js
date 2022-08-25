@@ -311,18 +311,10 @@ export default {
     {
       tema: '2.3. Demanda turística: principios generales',
       referencia:
-        'Servicios Turísticos Colombia. (2021). Consejo profesional de guías de turismo.',
+        'Ministerio de Comercio, Industria y Turismo. (s.f.). Consejo profesional de guías de turismo.',
       tipo: 'Página web',
       link:
-        'https://travelplugcolombia.com/consejo-profesional-de-guias-de-turismo/',
-    },
-    {
-      tema: '2.6. Sistemas de información turística',
-      referencia:
-        'Servicios Turísticos Colombia. (2021). Legislación turismo Colombia.',
-      tipo: 'Página web',
-      link:
-        'https://travelplugcolombia.com/category/legislacionturismocolombia/',
+        'https://www.mincit.gov.co/CMSPages/GetFile.aspx?guid=5f8016cc-520b-4238-aad4-d6d13991392a',
     },
     {
       tema: '2.6. Sistemas de información turística',
