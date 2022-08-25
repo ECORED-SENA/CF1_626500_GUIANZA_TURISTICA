@@ -94,13 +94,13 @@
                 figure
                   img(src="@/assets/curso/tema2/11.png")
               .col(style="place-self:center")
-                p.mb-0 Son tecnológico-dependientes: sin importar la edad, usan la tecnología para obtener asistencia durante el viaje de principio a fin.
+                p.mb-0 Buscan personalización en las experiencias: es el año perfecto para el uso de datos al servicio de los viajeros.
             .row.mt-3
               .col-auto(style="place-self:center")
                 figure
                   img(src="@/assets/curso/tema2/12.png")
               .col(style="place-self:center")
-                p.mb-0 Son tecnológico-dependientes: sin importar la edad, usan la tecnología para obtener asistencia durante el viaje de principio a fin.
+                p.mb-0 Están más conscientes del impacto que causa su actividad: tanto en la comunidad local como en la ecología. Por tanto, tiende a realizar actividades sustentables.
           div.p-5
             .row
               .col-auto(style="place-self:center")
@@ -216,7 +216,7 @@
     .titulo-segundo
       h2#t_2_4 2.4. Producto turístico: concepto, características
 
-    p(data-aos="fade-up") El producto turístico constituye la piedra angular del mercado turístico y su diseño es la actividad más importante del marketing.
+    p(data-aos="fade-up") El producto turístico constituye la piedra angular del mercado turístico y su diseño es la actividad más importante del #[em marketing].
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-5
       .bloque-texto-g__img(
@@ -321,9 +321,6 @@
           .col-md-6(style="place-self:center")
             figure
               img(src="@/assets/curso/tema2/38.png" data-aos="fade-left")
-        .ps-5.pe-5.mt-2
-          p(data-aos="fade-up") A continuación, se expone más información sobre la oferta de productos y subproductos que se encuentran catalogados como turismo cultural en Colombia:
-
         .cont_fake2.mt-5  
           .ps-5.pe-5
             figure
@@ -416,8 +413,8 @@
                     figure
                       img(src="@/assets/curso/tema2/50.png" data-aos="fade-up")
                   .col
-                    p.mb-0(data-aos="fade-up") En 2018, #[strong(style="color:#EB6F2D;") Colombia] entró en el #[em ranking] ICCA: International Congress and Convention Association, dentro de los #[strong(style="color:#EB6F2D;") 30 mejores destinos para el turismo de reuniones] por su variedad de climas, buena infraestructura y conectividad.
-                    p.mb-0.mt-4(data-aos="fade-up") #[strong(style="color:#EB6F2D;") Turismo alternativo:] son los desplazamientos para realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales que lo envuelven (Sectur, 2004). 
+                    p.mb-0(data-aos="fade-up") En 2018, #[strong(style="color:#EB6F2D;") Colombia] entró en el #[em ranking] ICCA: #[em International Congress and Convention Association], dentro de los #[strong(style="color:#EB6F2D;") 30 mejores destinos para el turismo de reuniones] por su variedad de climas, buena infraestructura y conectividad.
+                    p.mb-0.mt-4(data-aos="fade-up") #[strong(style="color:#EB6F2D;") Turismo alternativo:] son los desplazamientos para realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales que lo envuelven (#[em Sectur], 2004). 
 
       Separador.mt-5
 
@@ -440,6 +437,8 @@
       .col-md-4.mb-4.pt-4.pb-4(style="place-self:center")
         h5.text-white(data-aos="fade-up") Citur
         p.mt-4.text-white(data-aos="fade-up") Es un sistema único integral para el manejo de información cuantitativa y cualitativa de turismo de Colombia, que facilita el seguimiento del comportamiento del turismo y genera datos para la formulación, evaluación y seguimiento para la toma de decisiones tanto en el sector público como privado, haciendo uso de las tecnologías de la información (MinCIT – Citur 2021).
+        p.mt-4.text-white(data-aos="fade-up") Centro de Información turística que reúne todos los datos enviados por los departamentos para consolidar estadísticas nacionales de la actividad turística: se observan en tiempo real datos de rutas aéreas, número de turistas nacionales y extranjeros, entre otros.
+        p.mt-4.text-white(data-aos="fade-up") Su objetivo es consolidar las mediciones regionales que brinden al país la información para caracterizar el turismo y generar estándares que permitan la comparación e integración estadística sectorial a nivel nacional e internacional. MinCIT-CITUR (2021).
       .col-md-4.d-flex.align-items-end
         figure
           img(src="@/assets/curso/tema2/52.svg" data-aos="zoom-in-up")
@@ -475,7 +474,7 @@
         .row.p-3
           .col-md-7.mb-4.mb-md-0
             h4 La reivindicación del #[em Slow Tourism]
-            p Un informe de #[em Skyscanner] que lleva como nombre #[em The New World of Travel] resalta que para 2021 se espera que aumenten las reservaciones de vuelos y hoteles con solamente un mes de anticipación o menos. Esto para obtener mejores promociones de viaje que pueden ser un factor decisivo, ya que el viajero se mantiene en la búsqueda de alternativas que le permitan ahorrar dinero.
+            p Las personas están buscando viajes donde se puedan relajar y estar tranquilos, esto lo demuestra el estudio de la Confederación Española de Agencias de Viajes – CEAV: se harán con mayor regularidad viajes tranquilos sin cumplir con horarios estrictos y que realmente conecten al viajero con el destino, con sus costumbres y tradiciones. A esto se le conoce como #[em Slow Tourism], un concepto que aparece desde hace un par de años, pero que comienza a tomar más fuerza en esta coyuntura. Colombia con sus actividades en naturaleza y cultura, enfocados en turismo comunitario, caminatas, turismo de bienestar, entre otras, hacen que el viajero pueda realmente desconectarse y vivir nuevas y revitalizantes experiencias.
           .col-md-5
             figure
               img(src='@/assets/curso/tema2/59.png')

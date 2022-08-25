@@ -307,7 +307,7 @@
             img(src="@/assets/curso/tema1/36.png" data-aos="zoom-in-up")
           p.mt-3(data-aos="fade-up" style="position:relative") Es un conjunto de actividades alternativas que se presentan como las nuevas tendencias de la sociedad en general, en las que el turista busca un contacto cercano con la naturaleza, ya que dichas actividades se llevan a cabo de manera racional y con gran apego a la sustentabilidad.
           p.mt-4(data-aos="fade-up" style="position:relative") Estas actividades se enfatizan en un desarrollo económico en el que la comunidad reciba equitativamente los ingresos que se obtienen y se brinden más apoyos a la apertura de empresas locales, además de la conservación ambiental.
-        p.mt-3(data-aos="fade-up" style="position:relative") Acorde a estas modalidades de turismo, existen unas categorías según las actividades turísticas realizadas, como se aprecia en la siguiente tabla.
+        p.mt-3(data-aos="fade-up" style="position:relative") Acorde a estas modalidades de turismo, existen unas categorías según las actividades turísticas realizadas, como se aprecia en la siguiente tabla:
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 2
