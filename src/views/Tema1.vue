@@ -23,10 +23,19 @@
       h2#t_1_1 1.1 Reseña de la evolución turística
 
     .cont_tema1_1(style="position:relative")
-      p(data-aos="fade-up" style="position:relative") Ahora se verá un recorrido de la evolución del turismo y la importancia de las prácticas de guianza a través de la historia; por ello, en el siguiente video se hará un recorrido por los sucesos más importantes:
-      figure.mt-5(style="position:relative")
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .tarjeta.color-primario.p-3.mt-5(style="position:relative")
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/tema2/23.png" data-aos="fade-right")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h3.mb-1(data-aos="fade-up") Reseña de la evolución turística
+                p.text-small(data-aos="fade-up") Ahora se verá un recorrido de la evolución del turismo y la importancia de las prácticas de guianza a través de la historia; por ello, en el siguiente video se hará un recorrido por los sucesos más importantes:
+              .col-sm-auto
+                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/resenia_de_la_evolución_turistica.pdf')" target="_blank")
+                  span Ver PDF
+                  i.fas.fa-file-download
 
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-5
         .bloque-texto-g__img(
