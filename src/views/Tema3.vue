@@ -66,7 +66,7 @@
             img(src="@/assets/curso/tema3/2.png" data-aos="fade-left")
 
       .cajon.color-secundario.p-4.mt-3.row.cajon_2_1(style="background-color:#E8E8E8;")
-        .col-md-2.mb-4(style="place-self:center")
+        .col-md-2.mb-4.mb-md-0(style="place-self:center")
           figure.text-center
             img(src="@/assets/curso/tema3/3.png" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
         .col-md-10(style="place-self:center")
@@ -213,7 +213,7 @@
             p Es el encargado de actividades de ecoturismo realizadas en la montaña con diferentes alturas y requerimientos de dificultad, capacitación, entrenamiento y manejo de equipos de baja montaña de menor dificultad.
 
     .cajon.color-primario.p-4.mt-3.row(style="background-color:#FFE6A1;")
-      .col-md-2.mb-4(style="place-self:center")
+      .col-md-2.mb-4.mb-md-0(style="place-self:center")
         figure.text-center
           img(src="@/assets/curso/tema3/3.png" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
       .col-md-10(style="place-self:center")
@@ -242,7 +242,7 @@
             p.mb-1 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px #EB6F2D solid;border-radius:50%;padding:.3rem;font-size:10px;")] #[strong A destajo:] no existe una modalidad de contrato de trabajo a destajo, como puede ser el contrato de trabajo por duración de obra o labor, sino que el destajo es una forma o modalidad de remunerar al trabajador.
 
     .cajon.color-primario.p-4.mt-5.row.cajon_2_2(style="background-color:#FFD667;box-shadow:0px 0px 10px rgba(0,0,0,.15);")
-      .col-md-2.mb-4(style="place-self:center")
+      .col-md-2.mb-4.mb-md-0(style="place-self:center")
         figure.text-center
           img(src="@/assets/curso/tema3/21.png" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
       .col-md-10(style="place-self:center")
@@ -357,7 +357,7 @@ export default {
   height: 92.5%
   content: ''
   position: absolute
-  background-color: #FFB338
+  background-color: #3F6A31
   top: 35px
   z-index: -1
 .cont_tema3_2:before

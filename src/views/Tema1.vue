@@ -23,32 +23,34 @@
       h2#t_1_1 1.1 Reseña de la evolución turística
 
     .cont_tema1_1(style="position:relative")
-      .tarjeta.color-primario.p-3.mt-5(style="position:relative")
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema2/23.png" data-aos="fade-right")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3.mb-1(data-aos="fade-up") Reseña de la evolución turística
-                p.text-small(data-aos="fade-up") Ahora se verá un recorrido de la evolución del turismo y la importancia de las prácticas de guianza a través de la historia; por ello, en el siguiente video se hará un recorrido por los sucesos más importantes:
-              .col-sm-auto
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/resenia_de_la_evolución_turistica.pdf')" target="_blank")
-                  span Ver PDF
-                  i.fas.fa-file-download
+      .row.cont_magic1(style="position:relative")
+        .col-lg-3.mb-3.mb-lg-0.ps-4.pe-4(style="place-self:center")
+          figure.text-center
+            img(src="@/assets/curso/tema1/38.svg" data-aos="fade-right" style="display:inline;position:relative;max-width:250px;")
+        .col-lg-7.mb-3.mb-lg-0.p-5(style="place-self:center")
+          h5(data-aos="fade-up" style="position:relative") Evolución turística
+          p.mt-4(data-aos="fade-up" style="position:relative") Ahora se verá un recorrido de la evolución del turismo y la importancia de las prácticas de guianza a través de la historia; por ello, en el siguiente recurso se hará un recorrido por los sucesos más importantes.
+        .col-lg-2.p-5.text-center(style="position:relative;place-self:center")
+          a.boton.texto-blanco(:href="obtenerLink('downloads/resenia_de_la_evolución_turistica.pdf')" target="_blank")
+            span Descargar
+            i.fas.fa-file-download
 
-      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-5
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/tema1/3.png')})`}"
-        )
-        .bloque-texto-g__texto.p-4(style="position:relative")
-          h4.mb-0(data-aos="fade-up") Tres hechos que lo cambiaron todo… #[br] #[br]
+      .row.mt-5
+        .col-md-9.mb-4.mb-md-0(style="position:relative;place-self:center")
+          h4.mb-0(data-aos="fade-up") Tres hechos que lo cambiaron todo…
           p.mt-4(data-aos="fade-up") Hubo tres hechos durante el Renacimiento que dieron lugar a cambios ideológicos, promovieron la libertad y la relación del ser humano con la naturaleza y que, además, fueron fundamentales para que luego se desarrollara la industria turística. #[br] #[br]
-          p.mt-4(data-aos="fade-up") En realidad, estos tres hechos, fueron excelente referente para iniciar al turismo a partir del inicio del desligue de la Iglesia como fuente de todo, a la consideración de que el ser humano puede pensar libremente y ser bueno y la lucha del mismo por sus derechos fundamentales.
+          p.mt-2(data-aos="fade-up") En realidad, estos tres hechos, fueron excelente referente para iniciar al turismo a partir del inicio del desligue de la Iglesia como fuente de todo, a la consideración de que el ser humano puede pensar libremente y ser bueno y la lucha del mismo por sus derechos fundamentales.
+        .col-md-3(style="position:relative;place-self:center")
+          figure
+            img(src="@/assets/curso/tema1/39.png" data-aos="fade-left" style="max-width:250px;display:inline")
+
 
       p.mt-5(data-aos="fade-up" style="position:relative") De acuerdo con Jiménez (1990), los tres hechos son los siguientes:
 
       .row.mt-5
+        .col-md-3(style="place-self:center")
+          figure.text-center
+            img(src="@/assets/curso/tema1/40.png" data-aos="fade-left" style="display:inline;position:relative")
         .col-md-9.mb-4(style="place-self:center")
           TabsA.color-primario(style="position:relative")
             .tarjeta.color-acento-botones.p-5.cont_tab_a(titulo="La reforma protestante" style="position:relative")
@@ -60,9 +62,6 @@
             .tarjeta.color-acento-botones.p-5.cont_tab_a(titulo="La Revolución francesa" style="position:relative")
               h4 La Revolución francesa
               p.mt-4 La Revolución francesa ocurrida en 1789, que cambió la pirámide social de la época, poniendo a los burgueses a la cabeza del Estado, ostentando poder político y económico.
-        .col-md-3(style="place-self:center")
-          figure.text-center
-            img(src="@/assets/curso/tema1/4.png" data-aos="fade-left" style="display:inline;position:relative")
 
     Separador
 
@@ -142,21 +141,21 @@
     .row.mt-5
       .col-md-4.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/14.png')
+          img(src='@/assets/curso/tema1/14.png' style="max-width:100px;display:inline;top:30px;")
           .tarjeta.color-primario(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.1);")
             .text-white.p-4
               h4.text-center(data-aos="fade-up" style="color:#12263F !important") Tendencia sociológica
               p.mb-0.text-center(data-aos="fade-up" style="color:#12263F !important") El turismo tiene dos tendencias: #[br] #[strong(style="color:#12263F !important") Positiva:] el turismo es un problema social solucionable (Kabes, 1978). #[br] #[strong(style="color:#12263F !important") Negativa:] el turismo es una forma de que los ricos subyugan a los pobres (Ash y Turner, 1975).
       .col-md-4.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/15.png')
+          img(src='@/assets/curso/tema1/15.png' style="max-width:100px;display:inline;top:30px;")
           .tarjeta.color-primario(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.1);")
             .text-white.p-4
               h4.text-center(data-aos="fade-up" style="color:#12263F !important") Tendencia geografica 
               p.mb-0.text-center(data-aos="fade-up" style="color:#12263F !important") F. Cribier (1969): el turismo es un problema social porque aumentan los turistas y disminuye la calidad del espacio para vacaciones.
       .col-md-4.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/16.png')
+          img(src='@/assets/curso/tema1/16.png' style="max-width:100px;display:inline;top:30px;")
           .tarjeta.color-primario(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.1);")
             .text-white.p-4
               h4.text-center(data-aos="fade-up" style="color:#12263F !important") Tendencia económica
@@ -188,13 +187,13 @@
           p(data-aos="fade-up" style="position:relative") Es la clasificación de las formas en que se realiza la actividad turística, la cual procede de cuatro factores básicos:
           ul.lista-ul.mt-5(style="position:relative")
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] #[strong Factor cinético- estático:] es decir, la clasificación desde el punto de vista del desplazamiento.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong Factor cinético- estático:] es decir, la clasificación desde el punto de vista del desplazamiento.
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] #[strong Factor económico y de los bienes:] es la utilización de atractivos y servicios turísticos en un intercambio de bienes por dinero.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong Factor económico y de los bienes:] es la utilización de atractivos y servicios turísticos en un intercambio de bienes por dinero.
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] #[strong Factor sociológico:] es la relación que surge entre el turista y el receptor.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong Factor sociológico:] es la relación que surge entre el turista y el receptor.
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] #[strong Factor lúdico-motivacional:] es la realización de sueños y motivaciones turísticas, que dan satisfacción al turista.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong Factor lúdico-motivacional:] es la realización de sueños y motivaciones turísticas, que dan satisfacción al turista.
 
     p.mt-5(data-aos="fade-up") Con base en lo anterior, Jiménez (1990), propone la siguiente morfología:
 
@@ -294,7 +293,7 @@
             p.mt-4(data-aos="fade-up") Luego de los años 80, cuando comienza a cambiar toda la concepción turística, se pone de manifiesto la teoría de las motivaciones turísticas, que da lugar a las tipologías turísticas.
         .col-lg-4.mb-4.mb-lg-0
           figure(style="position:relative")
-            img(src="@/assets/curso/tema1/31.png" data-aos="fade-left")
+            img(src="@/assets/curso/tema1/31.png" data-aos="fade-left" style="position:relative;bottom:-7px;")
 
     br
     br
@@ -489,6 +488,8 @@ export default {
   background: url(../assets/curso/tema1/32.png)
   background-size: cover
   background-repeat: no-repeat
+  top: 25px
+  bottom: -13px
 .bloque-texto-a.color-primario:after
   width: 100%
   height: 93%
@@ -506,4 +507,10 @@ export default {
   background: url(../assets/curso/tema1/34.svg)
   background-position: bottom
   background-repeat: no-repeat
+.cont_magic1
+  background: url(../assets/curso/tema1/37.png)
+  background-size: 100% 75%
+  background-position: bottom
+  background-repeat: no-repeat
+  background-position: 0px 90%
 </style>

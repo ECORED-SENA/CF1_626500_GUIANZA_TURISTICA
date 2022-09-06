@@ -37,9 +37,9 @@
           p.mt-5 Para él, por ejemplo, la demanda turística se puede definir de dos formas:
           ul.lista-ul.mt-3(style="position:relative")
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Cantidad de personas que viajan.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Cantidad de personas que viajan.
             li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Consumo e ingresos de la zona turística.
+              p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Consumo e ingresos de la zona turística.
         .col-md-8
           figure
             img(src='@/assets/curso/tema2/5.png', alt='')
@@ -73,14 +73,14 @@
         p.mt-4(data-aos="fade-up") En un reciente informe de la Organización Mundial del Turismo (OMT-2020), analiza los cambios demográficos que afectarán al turismo en el siglo XXI y sostiene que:
         ul.lista-ul.mt-3(style="position:relative")
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] La progresiva concentración humana en grandes áreas urbanas marcará la evolución demográfica y afectará al turismo de aquí hasta 2030.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] La progresiva concentración humana en grandes áreas urbanas marcará la evolución demográfica y afectará al turismo de aquí hasta 2030.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] El turista es quien manda y la oferta es la que se debe adaptar a un cliente que exige información veraz, la mejor relación calidad-precio, experiencias auténticas y destinos que ofrezcan una oferta turística adecuada a sus deseos y necesidades.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] El turista es quien manda y la oferta es la que se debe adaptar a un cliente que exige información veraz, la mejor relación calidad-precio, experiencias auténticas y destinos que ofrezcan una oferta turística adecuada a sus deseos y necesidades.
 
     p.mt-2(data-aos="fade-up") En su informe para la OMT los turistas presentan varias características en su comportamiento, a saber:
 
     .row.mt-5
-      .col-md-8
+      .col-md-8.mb-4.mb-md-0
         SlyderA(style="background-color:#FFE6A1;border-radius:20px;height:100%;")
           div.p-5
             .row
@@ -171,13 +171,13 @@
       .col-md-8(style="place-self:center")
         ul.lista-ul.mt-3(style="position:relative")
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Los destinos apetecidos por los turistas cuentan con características: culturales, patrimoniales, económicas, políticas y medio ambientales de importancia, para lo cual requiere de asesoría sobre todos estos temas, pero también la instrucción necesaria para adquirir conocimientos.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Los destinos apetecidos por los turistas cuentan con características: culturales, patrimoniales, económicas, políticas y medio ambientales de importancia, para lo cual requiere de asesoría sobre todos estos temas, pero también la instrucción necesaria para adquirir conocimientos.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Lo mínimo que espera un turista del destino que visitará es encontrar que, además de buen alojamiento y alimentación, se encuentre en ese espacio turístico con personal idóneo, paciente, bueno para escuchar y excelente para explicar, de preferencia en el idioma del turista.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Lo mínimo que espera un turista del destino que visitará es encontrar que, además de buen alojamiento y alimentación, se encuentre en ese espacio turístico con personal idóneo, paciente, bueno para escuchar y excelente para explicar, de preferencia en el idioma del turista.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Otro factor determinante para que quien demanda el servicio turístico quede satisfecho, son las asesorías por parte del guía, sobre el tema de compras, buenos precios y calidad, ya que siendo foráneo el turista no identifica estos aspectos con facilidad.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Otro factor determinante para que quien demanda el servicio turístico quede satisfecho, son las asesorías por parte del guía, sobre el tema de compras, buenos precios y calidad, ya que siendo foráneo el turista no identifica estos aspectos con facilidad.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Al final del viaje, cuando el turista mide su grado de satisfacción respecto del destino que visitó, una de los temas que más tendrá en cuenta es su interacción con el guía que fue su contacto físico permanente, que lo asistió, le ayudó con trámites, lo instruyó y lo guió en cada parte del viaje.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Al final del viaje, cuando el turista mide su grado de satisfacción respecto del destino que visitó, una de los temas que más tendrá en cuenta es su interacción con el guía que fue su contacto físico permanente, que lo asistió, le ayudó con trámites, lo instruyó y lo guió en cada parte del viaje.
 
     Separador
 
@@ -191,13 +191,13 @@
         p.mt-4(data-aos="fade-up") Así las cosas, el comportamiento del consumidor es el siguiente:
         ul.lista-ul.mt-3(style="position:relative")
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Surgimiento de la necesidad de viajar.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Surgimiento de la necesidad de viajar.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Búsqueda de información.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Búsqueda de información.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Evaluación de alternativas.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Evaluación de alternativas.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] Selección de una alternativa y compra efectiva sensaciones posteriores a la compra.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Selección de una alternativa y compra efectiva sensaciones posteriores a la compra.
       .col-md-4(style="place-self:center")
         figure
           img(src="@/assets/curso/tema2/22.png" data-aos="fade-left")
@@ -205,7 +205,7 @@
     p.mt-2(data-aos="fade-up") Todos estos aspectos deben ser tenidos en cuenta por los PST (Plan Sectorial de Turismo), a la hora de ofertar un producto o servicio y les permiten realizar un ejercicio muy importante, el de segmentar el mercado al que le ofrecerá sus bienes y servicios.
 
     .cajon.color-secundario.p-4.mt-5.row(style="background-color:#B7CEAC;")
-      .col-md-2.mb-4(style="place-self:center")
+      .col-md-2.mb-4.mb-md-0(style="place-self:center")
         figure.text-center
           img(src="@/assets/curso/tema2/23.png" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
       .col-md-10(style="place-self:center")
@@ -231,9 +231,9 @@
       .col-md-6.mb-4(style="place-self:center")
         ul.lista-ul.mt-3(style="position:relative")
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] El producto turístico es el conjunto de atractivos, equipamientos, servicios, infraestructura y organizaciones que satisfacen una necesidad o un deseo de los consumidores turísticos. Recordando que un solo destino turístico puede contener varios productos turísticos.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] El producto turístico es el conjunto de atractivos, equipamientos, servicios, infraestructura y organizaciones que satisfacen una necesidad o un deseo de los consumidores turísticos. Recordando que un solo destino turístico puede contener varios productos turísticos.
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.4rem")] También un producto turístico está conformado por el conjunto de bienes y servicios que se ofrecen al mercado en forma individual o en una gama amplia de combinaciones resultantes de las necesidades, requerimientos o deseos de un consumidor al que llamamos turista.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] También un producto turístico está conformado por el conjunto de bienes y servicios que se ofrecen al mercado en forma individual o en una gama amplia de combinaciones resultantes de las necesidades, requerimientos o deseos de un consumidor al que llamamos turista.
         p.mt-4(data-aos="fade-up") A continuación, se exponen las #[strong(style="color:#EB6F2D;") características de un producto turístico, donde se analiza el producto turístico como una experiencia en la cual son utilizados productos muy diversos para su satisfacción:]
       .col-md-6(style="place-self:center")
         figure
@@ -381,7 +381,7 @@
               .col
                 span(style="font-size:18px;border-bottom:2px #DC753F solid;font-weight:bold;" data-aos="fade-up") Turismo de reuniones
 
-        .cont_fake5.mt-5.pb-5
+        .cont_fake5.pb-5
           .ps-5.pe-5
             p(data-aos="fade-up") Colombia se viene consolidando como un lugar con la capacidad instalada para atender a turistas que buscan otras alternativas turísticas, como se aprecia en la siguiente infografía:
 
@@ -576,4 +576,10 @@ export default {
   background-position: bottom
   border-radius: 20px
   background-repeat: no-repeat
+.img-infografica-b__modal
+  display: flex
+  align-items: center
+@media only screen and (max-width: 720px)
+  .img-infografica-b__item__numero span
+    font-size: 9px
 </style>

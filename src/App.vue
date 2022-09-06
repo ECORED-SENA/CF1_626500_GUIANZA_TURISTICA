@@ -48,8 +48,21 @@ export default {
   max-width: 350px !important
   display: inline
   position: relative
-  bottom: -7px
+  bottom: 10px
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
   padding: 0 !important
   text-align: center
+.banner-principal__img img
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-1
+  top: 75% !important
+  right: 15% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
+.banner-principal-decorativo-2
+  top: 0% !important
+  right: 11% !important
+  -webkit-animation: float1 3.5s ease-in-out infinite alternate
+  animation: float1 3.5s ease-in-out infinite alternate
 </style>

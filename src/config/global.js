@@ -5,7 +5,16 @@ export default {
       'El turismo como actividad humana sobrepasa el concepto de actividad económica por el cual es reconocido. Se puede afirmar que el ser humano en su ADN tiene consigo la necesidad y deseo de descubrir y explorar lo que le rodea física, así como lo que no ve y desconoce.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
-    imagenesDecorativasBanner: [],
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
