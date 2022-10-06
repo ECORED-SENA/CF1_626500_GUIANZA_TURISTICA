@@ -11,18 +11,18 @@
 
     figure.mt-5(style="position:relative")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ybWkwThRSPE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_1 3.1. Principios básicos: perfil y campo de acción
+      h2#t_3_1 3.1 Principios básicos: perfil y campo de acción
 
     .cont_tema3_1(style="position:relative")
       p(data-aos="fade-up" style="position:relative") El guía de turismo desempeña un cargo fundamental para el turismo, ya que están en contacto directo con el turista, son el elemento de enlace entre el turista y el país que visita. Por el trato que le brinde el guía, puede el turista juzgar a todo el país, pues ya es la primera impresión que recibe del lugar. De su comportamiento y cultura de servicio, depende la idea que el turista se forme de un destino turístico.
       .row.mt-4(style="position:relative")
         .col-md-6.mb-4(style="place-self:center;")
-          p(data-aos="fade-up") Para ejercer la guianza turística, se requiere la tarjeta profesional como guía y la inscripción al Registro Nacional de turismo -RNT-, teniendo en cuenta:
+          p(data-aos="fade-up") Para ejercer la guianza turística, se requiere la tarjeta profesional como guía y la inscripción al Registro Nacional de Turismo -RNT-, teniendo en cuenta:
           SlyderF.mb-5(columnas="col-lg-12")
             .tarjeta.color-primario.p-4(style="background-color:#FFD667;")
               .row.justify-content-center.mb-3
@@ -140,7 +140,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_2 3.2. Servicios guiados y modalidades de contratación
+      h2#t_3_2 3.2 Servicios guiados y modalidades de contratación
 
     p(data-aos="fade-up") Por su relación laboral los guías de turismo en Colombia se pueden clasificar como #[em freelance] o dependientes; a continuación, se explica cómo se clasifica la actividad bajo la modalidad de #[em freelance]:
 
@@ -251,14 +251,14 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_3 3.3. Normatividad sobre guionaje
+      h2#t_3_3 3.3 Normatividad sobre guionaje
 
     p(data-aos="fade-up") A continuación, puede apreciar una línea del tiempo de la normativa más sobresaliente para este prestador de servicios turísticos:     
     .row.mt-5
       .col-md-6.mb-4.mb-md-0(style="place-self:center")
         AcordionA.acor2(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Decreto 2345 de 1956")
-            p Artículo 7°: “Toda persona que se ocupe o quiera ocuparse en prestar el servicio de guía o cicerone, llenará los siguientes requisitos ante la División Nacional de Turismo: 1- Comprobar ser mayor de 18 años; 2- Presentar examen de conocimientos generales ante la División Nacional de Turismo o ante persona o entidad que ésta designe; 3- Presentar certificado de idoneidad en idiomas extranjeros, particularmente del inglés (Decreto 2345 de 1956).
+            p Artículo 7°: Toda persona que se ocupe o quiera ocuparse en prestar el servicio de guía o cicerone, llenará los siguientes requisitos ante la División Nacional de Turismo: 1- Comprobar ser mayor de 18 años; 2- Presentar examen de conocimientos generales ante la División Nacional de Turismo o ante persona o entidad que ésta designe; 3- Presentar certificado de idoneidad en idiomas extranjeros, particularmente del inglés (Decreto 2345 de 1956).
           .row(titulo="Decreto 410 de 1979")
             p Reglamenta los servicios que prestar el guía de turismo: acompañar al turista o grupo durante la excusión a su cargo; prestar la asistencia necesaria en trámites y diligencias que deba cumplir antes las autoridades particulares; informar debidamente al turista sobre los diversos aspectos de interés del sitio a visitar; prevenir en lo posible las eventualidades que puedan a afectar a los turistas. 
             p.mt-4 Además, este Decreto reglamentó la formación necesaria para ejercer y el carné que debía portar para prestar el servicio de guionaje en el territorio colombiano.
@@ -385,4 +385,9 @@ export default {
   background-repeat: no-repeat
 .acor2 .acordion__activo
   background-color: #FFE6A1
+@media only screen and (max-width: 720px)
+  .img-infografica__item__numero span
+    display: none
+  .img-infografica__item__numero
+    padding: 1px !important
 </style>

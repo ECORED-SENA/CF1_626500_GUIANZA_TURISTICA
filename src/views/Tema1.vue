@@ -58,7 +58,7 @@
               p.mt-4 La Reforma Protestante iniciada por Martín Lutero en 1517, quien habla sobre el papel que la Iglesia católica estaba cumpliendo en la sociedad, cuestionó la relación del ser humano con la religión, denotando nuevos contextos del hombre libre.
             .tarjeta.color-acento-botones.p-5.cont_tab_a(titulo="Libro <em>El Emilio o la educación</em>" style="position:relative")
               h4 Libro #[em(style="color:#12263F;") El Emilio o la educación]
-              p.mt-4 La publicación del libro El Emilio o la educación por parte de Jean-Jacques Rousseau en 1762, es un tratado filosófico que sostiene que el ser humanoes bueno por naturaleza, mientras participa de una sociedad inevitablemente corrupta.
+              p.mt-4 La publicación del libro El Emilio o la educación por parte de Jean-Jacques Rousseau en 1762, es un tratado filosófico que sostiene que el ser humano es bueno por naturaleza, mientras participa de una sociedad inevitablemente corrupta.
             .tarjeta.color-acento-botones.p-5.cont_tab_a(titulo="La Revolución francesa" style="position:relative")
               h4 La Revolución francesa
               p.mt-4 La Revolución francesa ocurrida en 1789, que cambió la pirámide social de la época, poniendo a los burgueses a la cabeza del Estado, ostentando poder político y económico.
@@ -106,7 +106,7 @@
       .row
         .col-md-6.mb-4(style="place-self:center")
           .p-5.mt-4(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.14);")
-            p.mb-0(data-aos="fade-up" style="position:relative") Se evidencia como en el curso de casi 20 años se dan tres tendencias sobre cuál debería ser la conceptualización del turismo, pasando de una concepción netamente económica a otra de movimiento, dinámica y llegando a un concepto en el que los más importante son las apariencias; por lo anterior, el concepto del turismo sigue avanzando a partir de estas corrientes y se derivan en nuevos conceptos a saber:
+            p.mb-0(data-aos="fade-up" style="position:relative") Se evidencia como en el curso de casi 20 años se dan tres tendencias sobre cuál debería ser la conceptualización del turismo, pasando de una concepción netamente económica a otra de movimiento, dinámica y llegando a un concepto en el que lo más importante son las apariencias; por lo anterior, el concepto del turismo sigue avanzando a partir de estas corrientes y se derivan en nuevos conceptos a saber:
           p.mt-4(data-aos="fade-up" style="position:relative") De igual manera, en la historia de la guianza turística, la evolución de la noción de turismo de corrientes de turismo a escuelas de turismo en relación con lo económico, se ilustra a continuación.
         .col-md-6(style="place-self:center")
           figure.text-center
@@ -151,7 +151,7 @@
           img(src='@/assets/curso/tema1/15.png' style="max-width:100px;display:inline;top:30px;")
           .tarjeta.color-primario(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.1);")
             .text-white.p-4
-              h4.text-center(data-aos="fade-up" style="color:#12263F !important") Tendencia geografica 
+              h4.text-center(data-aos="fade-up" style="color:#12263F !important") Tendencia geográfica 
               p.mb-0.text-center(data-aos="fade-up" style="color:#12263F !important") F. Cribier (1969): el turismo es un problema social porque aumentan los turistas y disminuye la calidad del espacio para vacaciones.
       .col-md-4.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -170,8 +170,8 @@
             img(src="@/assets/curso/tema1/17.png" data-aos="zoom-in-up" style="max-width:250px;display:inline")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0(data-aos="fade-up") Según la Organización Mundial del turismo (OMT) (2006), el turismo comprende las actividades que realizan las personas (turistas) durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un periodo de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos (Ibáñez y Cabrera, 2011).
-            p.mt-4(data-aos="fade-up") Cada día que avanza el mundo, a nivel político, económico social y tecnológico, seguramente se evidenciarán nuevos conceptos sobre la actividad que involucra prácticamente todos los aspectos de relacionamiento del ser humano.
+            p.mb-0(data-aos="fade-up") Según la Organización Mundial del Turismo (OMT) (2006), el turismo comprende las actividades que realizan las personas (turistas) durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un periodo de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos (Ibáñez y Cabrera, 2011).
+            p.mt-4(data-aos="fade-up") Cada día que avanza el mundo, a nivel político, económico, social y tecnológico, seguramente se evidenciarán nuevos conceptos sobre la actividad que involucra prácticamente todos los aspectos de relacionamiento del ser humano.
 
     Separador
 
@@ -308,7 +308,7 @@
           figure
             img(src="@/assets/curso/tema1/35.png" data-aos="zoom-in-up")
           p.mt-3(data-aos="fade-up" style="position:relative") Es aquel ejercido por un gran número de personas, en destinos de sol y playa principalmente, o en cualquier otro destino. Es el tipo de turismo más criticado, porque al tomar el modelo fordista como paradigma, crece desaforadamente, sin tener cuidado con el medio ambiente ni con el destino, incluso es más económico para el turista, porque no es racionalmente planificado. 
-          p.mt-4(data-aos="fade-up" style="position:relative") De acuerdo con la OMT (2005), citada por Ibáñez y Cabrera (2011), las actividades de este tipo de turismo se caracterizan por las visitas a playas y grandes destinos turístico, o bien a ciudades coloniales o de atractivo cultural situadas regularmente en grandes ciudades.
+          p.mt-4(data-aos="fade-up" style="position:relative") De acuerdo con la OMT (2005), citada por Ibáñez y Cabrera (2011), las actividades de este tipo de turismo se caracterizan por las visitas a playas y grandes destinos turísticos, o bien a ciudades coloniales o de atractivo cultural situadas regularmente en grandes ciudades.
         .col-md-6.mb-4
           h4(data-aos="fade-up" style="position:relative") El turismo alternativo
           figure

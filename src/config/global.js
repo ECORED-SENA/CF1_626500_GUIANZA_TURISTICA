@@ -277,12 +277,12 @@ export default {
     {
       termino: 'Normativa',
       significado:
-        'agrupación de normas, reglas, condiciones legales de un área o materia',
+        'agrupación de normas, reglas, condiciones legales de un área o material',
     },
     {
       termino: 'Prestador de servicio turístico',
       significado:
-        'personas que ejercen actividades de acompañamiento, orientación y satisfacer necesidades de un cliente relacionados a transporte, alojamiento y otros.',
+        'personas que ejercen actividades de acompañamiento, orientación y satisfacer necesidades de un cliente relacionados al transporte, alojamiento y otros.',
     },
     {
       termino: 'Registro Nacional de Turismo',
@@ -349,28 +349,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
+        nombre: 'Sandra Villamizar',
+        cargo: 'Experta Temática',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro para la industria, la empresa y los Servicios - Regional Tolima',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Ángela María Zapata Guzmán',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Ecosistema',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor Metodológico',
+        centro: 'Centro de Diseño y metrología - Regional Distrito Capital',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -386,7 +383,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
+        nombre: 'Marcela Alarcon Granados',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -398,44 +395,49 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Ximena Hurtado Villalba',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Laura Gisselle Murcia Pardo',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Ludwyng Corzo García',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

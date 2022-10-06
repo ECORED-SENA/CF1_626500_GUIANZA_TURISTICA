@@ -16,23 +16,23 @@
 
     p.mt-5(data-aos="fade-up") A continuación se brinda información para conocer más sobre algunas definiciones sobre la demanda turística.     
 
-    SlyderA.slydera1.mt-5.p-5(tipo="b")
-      .row
-        .col-md-4.mb-4.mb-md-0
+    SlyderA.slydera1.mt-5(tipo="b")
+      .row.p-4
+        .col-lg-4.mb-4.mb-lg-0
           h4 Libre juego de oferta y demanda.
-          p.mt-5 De acuerdo con Landi (2013), la demanda turística opera en el contexto de un mercado en el que intervienen diversos operadores de turismo ofreciendo determinados productos y servicios, y que supone, además, la existencia de un conjunto de espacios geográficos donde se realizan estos servicios. esto sucede en el marco de un libre juego de oferta y demanda.
-        .col-md-8
+          p.mt-5 De acuerdo con Landi (2013), la demanda turística opera en el contexto de un mercado en el que intervienen diversos operadores de turismo ofreciendo determinados productos y servicios, y que supone, además, la existencia de un conjunto de espacios geográficos donde se realizan estos servicios. Esto sucede en el marco de un libre juego de oferta y demanda.
+        .col-lg-8
           figure
             img(src='@/assets/curso/tema2/3.png', alt='')
-      .row
-        .col-md-4.mb-4.mb-md-0
+      .row.p-4
+        .col-lg-4.mb-4.mb-md-0
           h4 Demanda turística según los teóricos.
           p.mt-5 Uno de los teóricos más estudioso del territorio y a demanda turística, Robert Boullón (1997), afirma que el concepto de demanda turística puede variar según las escuelas en las que se inscriben los teóricos turísticos. 
-        .col-md-8
+        .col-lg-8
           figure
             img(src='@/assets/curso/tema2/4.png', alt='')
-      .row
-        .col-md-4.mb-4.mb-md-0
+      .row.p-4
+        .col-lg-4.mb-4.mb-lg-0
           h4 Demanda del sector turístico.
           p.mt-5 Para él, por ejemplo, la demanda turística se puede definir de dos formas:
           ul.lista-ul.mt-3(style="position:relative")
@@ -40,28 +40,28 @@
               p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Cantidad de personas que viajan.
             li(data-aos="fade-up")
               p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Consumo e ingresos de la zona turística.
-        .col-md-8
+        .col-lg-8
           figure
             img(src='@/assets/curso/tema2/5.png', alt='')
-      .row
-        .col-md-4.mb-4.mb-md-0
+      .row.p-4
+        .col-lg-4.mb-4.mb-lg-0
           h4 Total de personas que viajan.
           p.mt-5 La primera, como el número total de personas que viajan o desean viajar para disfrutar de facilidades turísticas y de servicios, en lugares distintos al sitio de trabajo y residencia habitual.
-        .col-md-8
+        .col-lg-8
           figure
             img(src='@/assets/curso/tema2/6.png', alt='')
-      .row
-        .col-md-4.mb-4.mb-md-0
+      .row.p-4
+        .col-lg-4.mb-4.mb-lg-0
           h4 Ingresos de la zona turística
           p.mt-5 La segunda, como el consumo y los ingresos que se generan en la zona turística. Este es un concepto más económico que está expresado en unidades monetarias y no en número de consumidores.
-        .col-md-8
+        .col-lg-8
           figure
             img(src='@/assets/curso/tema2/7.png', alt='')
 
     Separador
 
     .titulo-segundo
-      h2#t_2_1 2.1. Perfil de turista
+      h2#t_2_1 2.1 Perfil de turista
 
     .row
       .col-md-4.mb-4(style="place-self:center;")
@@ -160,7 +160,7 @@
     Separador
 
     .titulo-segundo
-      h2#t_2_2 2.2. Demanda turística y relación con el guionaje
+      h2#t_2_2 2.2 Demanda turística y relación con el guionaje
 
     p(data-aos="fade-up") La demanda turística guarda relación muy importante con la guianza turística, como se caracteriza a continuación:
 
@@ -171,7 +171,7 @@
       .col-md-8(style="place-self:center")
         ul.lista-ul.mt-3(style="position:relative")
           li(data-aos="fade-up")
-            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Los destinos apetecidos por los turistas cuentan con características: culturales, patrimoniales, económicas, políticas y medio ambientales de importancia, para lo cual requiere de asesoría sobre todos estos temas, pero también la instrucción necesaria para adquirir conocimientos.
+            p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Los destinos apetecidos por los turistas cuentan con características: culturales, patrimoniales, económicas, políticas y medioambientales de importancia, para lo cual requiere de asesoría sobre todos estos temas, pero también la instrucción necesaria para adquirir conocimientos.
           li(data-aos="fade-up")
             p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding: .2rem;font-size:10px;")] Lo mínimo que espera un turista del destino que visitará es encontrar que, además de buen alojamiento y alimentación, se encuentre en ese espacio turístico con personal idóneo, paciente, bueno para escuchar y excelente para explicar, de preferencia en el idioma del turista.
           li(data-aos="fade-up")
@@ -182,7 +182,7 @@
     Separador
 
     .titulo-segundo
-      h2#t_2_3 2.3. Demanda turística: principios generales
+      h2#t_2_3 2.3 Demanda turística: principios generales
 
     .row
       .col-md-8.mb-4(style="place-self:center")
@@ -209,12 +209,12 @@
         figure.text-center
           img(src="@/assets/curso/tema2/23.png" data-aos="zoom-in-up" style="display:inline;max-width:100px;")
       .col-md-10(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Serra (2003), indica que la segmentación del mercado, es el proceso mediante el cual se divide el mercado en subgrupos relativamente homogéneos para llevar a cabo una estrategia comercial diferenciada y satisfacer de manera más eficiente sus necesidades, dentro de este análisis siempre se deberá tener en cuenta la prestación del servicio de guionaje, tan importante para llenar de experiencias positivas al turista, con el fin de cumpla todo el ciclo turístico.
+        p.mb-0(data-aos="fade-up") Serra (2003), indica que la segmentación del mercado, es el proceso mediante el cual se divide el mercado en subgrupos relativamente homogéneos para llevar a cabo una estrategia comercial diferenciada y satisfacer de manera más eficiente sus necesidades, dentro de este análisis siempre se deberá tener en cuenta la prestación del servicio de guionaje, tan importante para llenar de experiencias positivas al turista, con el fin que cumpla todo el ciclo turístico.
 
     Separador
 
     .titulo-segundo
-      h2#t_2_4 2.4. Producto turístico: concepto, características
+      h2#t_2_4 2.4 Producto turístico: concepto, características
 
     p(data-aos="fade-up") El producto turístico constituye la piedra angular del mercado turístico y su diseño es la actividad más importante del #[em marketing].
 
@@ -290,7 +290,7 @@
 
     .cont_tema2_2.pb-5.mt-5(style="position:relative")
       .titulo-segundo(style="position:relative")
-        h2#t_2_5 2.5. Catálogo de productos turísticos de Colombia 
+        h2#t_2_5 2.5 Catálogo de productos turísticos de Colombia 
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema2/34.png')})`}"
@@ -315,7 +315,7 @@
 
         .row.ps-5.pe-5(style="position:relative")
           .col-md-6.mb-4(style="place-self:center")
-            p.mt-5(data-aos="fade-up") Según la OMT (2018), el #[strong(style="color:#EB6F2D;") turismo cultural es “un tipo de actividad turística en la que la motivación esencial del visitante es aprender, descubrir, experimentar y consumir atractivos o productos culturales tangibles e intangibles en un destino turístico".] Según Fontur (2016) en promedio el gasto asociado al turismo cultural oscila entre USD1.870 y USD $3.140, dependiendo del destino.
+            p.mt-5(data-aos="fade-up") Según la OMT (2018), el #[strong(style="color:#EB6F2D;") turismo cultural es “un tipo de actividad turística en la que la motivación esencial del visitante es aprender, descubrir, experimentar y consumir atractivos o productos culturales tangibles e intangibles en un destino turístico".] Según Fontur (2016) en promedio el gasto asociado al turismo cultural oscila entre USD 1.870 y USD 3.140, dependiendo del destino.
             p.mt-4(data-aos="fade-up") El turismo cultural se proyecta como un impulsor de las empresas creativas, para el desarrollo de la economía naranja, las expresiones y bienes del patrimonio material e inmaterial, las festividades y eventos, así como el etnoturismo que cada día gana más adeptos.
             p.mt-4(data-aos="fade-up") A continuación, se expone más información sobre la oferta de productos y subproductos que se encuentran catalogados como turismo cultural en Colombia:
           .col-md-6(style="place-self:center")
@@ -383,7 +383,7 @@
 
         .cont_fake5.pb-5
           .ps-5.pe-5
-            p(data-aos="fade-up") Colombia se viene consolidando como un lugar con la capacidad instalada para atender a turistas que buscan otras alternativas turísticas, como se aprecia en la siguiente infografía:
+            p(data-aos="fade-up") Colombia se viene consolidando como un lugar con la capacidad instalada para atender a turistas que buscan otras alternativas turísticas, como se aprecia a continuación:
 
             .row.mt-5
               .col-md-4.mb-4(style="place-self:center")
@@ -419,7 +419,7 @@
       Separador.mt-5
 
       .titulo-segundo.mt-5.mb-0(style="position:relative")
-        h2#t_2_6 2.6. Sistemas de información turística
+        h2#t_2_6 2.6 Sistemas de información turística
 
     .row
       .col-md-6.mb-4(style="place-self:center")
@@ -449,7 +449,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_2_7 2.7. Tendencias del turismo
+      h2#t_2_7 2.7 Tendencias del turismo
 
     p(data-aos="fade-up") De acuerdo con Procolombia (2020), tomando en consideración que el turismo ha demostrado ser la industria más resiliente, debido a la pandemia por la COVID-19, se logró establecer que las tendencias del turismo fueron:
 
@@ -582,4 +582,6 @@ export default {
 @media only screen and (max-width: 720px)
   .img-infografica-b__item__numero span
     font-size: 9px
+.slyder-a__tipo-b
+  padding: 1rem
 </style>
