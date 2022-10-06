@@ -277,7 +277,7 @@ export default {
     {
       termino: 'Normativa',
       significado:
-        'agrupación de normas, reglas, condiciones legales de un área o material',
+        'agrupación de normas, reglas, condiciones legales de un área o material.',
     },
     {
       termino: 'Prestador de servicio turístico',
