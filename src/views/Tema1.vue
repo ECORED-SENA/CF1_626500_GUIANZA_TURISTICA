@@ -12,7 +12,7 @@
         figure.text-center
           img(src="@/assets/curso/tema1/1.png" data-aos="fade-right" style="position:relative;display:inline;")
       .col-md-6(style="place-self:center;")
-        p(data-aos="fade-up" style="position:relative") Debido a la importancia de la actividad turística en el mundo, es necesario entender bien el abordando cualquier tópico relacionado con el turismo en los diferentes destinos, sin que se pierdan las características del mismo, más bien resaltando los productos turísticos existentes, para que los turistas se lleven la mejor experiencia y deseen regresar.
+        p(data-aos="fade-up" style="position:relative") Debido a la importancia de la actividad turística en el mundo, es necesario entender bien cualquier tópico relacionado con el turismo en los diferentes destinos, sin que se pierdan las características del mismo, más bien resaltando los productos turísticos existentes, para que los turistas se lleven la mejor experiencia y deseen regresar.
         p.mt-4(data-aos="fade-up" style="position:relative") Esto explica la importancia de la función del guía turístico, de hecho, es una gran responsabilidad y de allí la relevancia de su formación y profesionalización para que cada día sea mejor el servicio que se le preste a visitantes y turistas.
         .cajon.color-primario.p-5.mt-4(style="background-color:#FFD667;box-shadow:0px 0px 20px rgba(0,0,0,.14);")
           p.mb-0(data-aos="fade-up" style="position:relative") En este componente se define cómo ha sido la evolución turística, qué es turismo, la teoría de la motivación y las tipologías turísticas, producto de dichas motivaciones y cómo se desarrolla la morfología turística; se incluye aspectos del guionaje y la profesión de guianza.
@@ -31,7 +31,7 @@
           h5(data-aos="fade-up" style="position:relative") Evolución turística
           p.mt-4(data-aos="fade-up" style="position:relative") Ahora se verá un recorrido de la evolución del turismo y la importancia de las prácticas de guianza a través de la historia; por ello, en el siguiente recurso se hará un recorrido por los sucesos más importantes.
         .col-lg-2.p-5.text-center(style="position:relative;place-self:center")
-          a.boton.texto-blanco(:href="obtenerLink('downloads/resenia_de_la_evolución_turistica.pdf')" target="_blank")
+          a.boton.texto-blanco(:href="obtenerLink('downloads/resena_de_la_evolucion_turistica.pdf')" target="_blank")
             span Descargar
             i.fas.fa-file-download
 
